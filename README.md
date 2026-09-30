@@ -65,22 +65,6 @@ SQL concepts used in this project include:
 
 ---
 
-## 📁 Project Structure
-
-```text
-Library-Database-Analysis-MySQL/
-├── Data_files_used/
-│   └── (Contains all CSV files with table content)
-├── Images_used/
-│   └── (Contains all images used in the presentation)
-├── Library_Database_Analysis_Project.sql
-├── MODEL.mwb
-├── Library Database Analysis(using MySQL).pptx
-└── README.md
-```
-
----
-
 ## 🗂️ Database Structure
 
 The project contains the following seven tables:

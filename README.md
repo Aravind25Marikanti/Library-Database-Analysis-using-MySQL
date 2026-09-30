@@ -65,6 +65,22 @@ SQL concepts used in this project include:
 
 ---
 
+## 📁 Project Structure
+
+```text
+Library-Database-Analysis-MySQL/
+├── Data_files_used/
+│   └── (Contains all CSV files with table content)
+├── Images_used/
+│   └── (Contains all images used in the presentation)
+├── Library_Database_Analysis_Project.sql
+├── MODEL.mwb
+├── Library Database Analysis(using MySQL).pptx
+└── README.md
+```
+
+---
+
 ## 🗂️ Database Structure
 
 The project contains the following seven tables:
@@ -411,14 +427,9 @@ Through this project, I gained practical experience in:
 - Validating SQL query outputs.
 
 ---
+# 🎯 Conclusion
 
-# 📁 Project Structure
+This project demonstrates the practical use of **MySQL and SQL** for managing and analyzing a relational library database. It strengthened my understanding of **table relationships, JOINs, aggregation, GROUP BY, HAVING, and subqueries** while solving real-world library analysis questions.
 
-```text
-Library-Database-Analysis-MySQL/
-│
-├── Library_Database_Analysis_Project.sql
-├── README.md
-│
-└── Project_Presentation/
-    └── Library Database Analysis(using MySQL).pptx
+
+
